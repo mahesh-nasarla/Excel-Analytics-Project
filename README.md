@@ -11,7 +11,7 @@ The main purpose was to convert raw order-level data into meaningful business in
 
 ### 2. Business Problem Statement
 
-An Amazon seller provided one month of order-level transactional data and wanted to understand overall business performance.
+An Amazon seller provided three  months of order-level transactional data and wanted to understand overall business performance.
 
 The seller faced the following business questions:
 
