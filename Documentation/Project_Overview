@@ -1,0 +1,46 @@
+### Amazon Sales Performance Analysis
+**Advanced Excel | Data Analyst Project**
+
+In this project, I worked on an Amazon Sales Performance Analysis using Microsoft Excel. The main goal was to understand sales performance,
+customer purchasing behaviour, product demand, and order status over a three-month period from February to April 2025.
+
+I started by understanding the dataset and checking its quality. The dataset contained 250 order records and 12 columns, including Order ID, Date, 
+Product, Category, Price, Quantity, Total Sales, Customer Name, Customer Location, Payment Method, and Order Status.
+
+After understanding the data, I performed data cleaning and validation. I checked for missing values, duplicate records, incorrect formats, and inconsistent entries. 
+I also verified the sales calculations to make sure the Total Sales values matched Price multiplied by Quantity.
+
+Once the data was ready, I used Excel PivotTables to analyse sales from different business perspectives. I created summaries to understand category-wise sales, 
+product performance, customer locations, payment preferences, order statuses, and monthly sales trends.
+
+I then used PivotCharts to present these results visually and developed an interactive dashboard using KPI cards, slicers, and date timelines. Users can filter the dashboard by category, 
+customer location, order status, and month to explore different parts of the business.
+
+Through this analysis, I found that Electronics was the highest-performing category, Refrigerators generated the highest sales among products, and Miami recorded the highest sales among customer locations.
+I also identified that pending and cancelled orders together represented a significant portion of total orders.
+
+Overall, this project helped me gain practical experience in Excel-based data analysis, PivotTables, PivotCharts, interactive dashboard development, 
+business reporting, and identifying useful insights from raw data.
+
+
+Dataset summary
+
+Total records: 250
+
+Total columns: 12
+
+Total sales: ₹2,43,845
+
+Total quantity: 714 units
+
+Unique orders: 250
+
+Product categories: 5
+
+Unique products: 10
+
+Customer locations: 10
+
+Payment methods: 5
+
+Order statuses: 3
