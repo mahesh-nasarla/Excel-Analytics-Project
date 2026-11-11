@@ -1,0 +1,79 @@
+Data Cleaning
+
+Data cleaning was an important step before performing the analysis. The objective was to make the dataset consistent and suitable for PivotTable reporting.
+
+The documented data-cleaning workflow included:
+
+1. Duplicate checking
+
+Checked for duplicate order records.
+
+Checked the uniqueness of Order IDs.
+
+Ensured duplicate records would not affect sales calculations.
+
+2. Missing value checking
+
+Checked all columns for blank or missing values.
+
+Ensured important fields such as Order ID, Product, Quantity, and Total Sales were available.
+
+3. Data format standardization
+
+Converted Date into a proper date format.
+
+Formatted Price, Quantity, and Total Sales as numeric values.
+
+Standardized text fields.
+
+4. Text cleaning
+
+Used TRIM to remove unnecessary spaces.
+
+Used PROPER where appropriate to standardize text presentation.
+
+Checked category, product, and customer location names for consistency.
+
+5. Category and location standardization
+
+Checked for inconsistent spellings.
+
+Ensured similar categories and locations were represented consistently.
+
+6. Data accuracy
+
+Checked whether Total Sales matched Price multiplied by Quantity.
+
+6. Data Validation
+
+Data validation was performed to check whether the records were reliable for analysis.
+
+The checks on the supplied dataset produced the following results:
+
+Validation check
+
+Result
+
+Total records
+
+250
+
+Duplicate records
+
+0
+
+Duplicate Order IDs
+
+0
+
+Missing values
+
+0
+
+Sales calculation
+
+Valid
+
+Month and date consistency
+
+Valid
